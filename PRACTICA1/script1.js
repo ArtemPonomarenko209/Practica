@@ -28,3 +28,4 @@ console.log("Квадрат числа", input, "равен:", calcPow(input));
 }
 
 myFirstApp("Artem", 41);
+
